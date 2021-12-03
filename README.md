@@ -33,7 +33,7 @@ Players go to the setting menus, button locate at the top right in home screen.
 <img src="img/Home-screen.png" alt="Homes-acreen.png" width=50%/>
 
 
-Then tab `Connect NFT wallet` button
+Then tab `Connect NFT wallet` button at the bottom right.
 
 <img src="img/Settings-screen-not-connect.png" alt="Settings-screen-not-connect.png" width=50%/>
 
