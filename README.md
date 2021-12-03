@@ -16,7 +16,8 @@ There are four general steps to load Items Battle Bears (Battle Bear Stars) in t
 - After connected Game get item list in players wallet.
 - Game load Battle Bears items in Players NFT wallet in UI Battle Bears Inventory.
 - Players use items in gameplay.
-<iframe frameborder="0" style="width:100%;height:453px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1FBafykLftxgdLzJ4kyQd0pfU3rdV09g2"></iframe>
+
+<img src="img/general-flow.png" alt="general-flow.png" width=50%/>
 
 ## User flow and details description <br> <a name="Userflow"></a>
 
@@ -24,8 +25,7 @@ There are four general steps to load Items Battle Bears (Battle Bear Stars) in t
 
 Connect flow (Algo Wallet app only). Players need Algorand Wallet app ready on their mobile devices.
 
-<iframe frameborder="0" style="width:100%;height:753px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1_2iSnYkNFIykFf3fI4LD4f1-19IxLVjm"></iframe>
-
+<img src="img/step1-flow.png" alt="step1-flow.png" width=50%/>
 
 #### 1.1/ In the settings screen, players tab  `Connect NFT wallet`  button in game <br>
 Players go to the setting menus, button locate at the top right in home screen. 
