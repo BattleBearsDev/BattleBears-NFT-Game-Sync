@@ -11,7 +11,7 @@ This document contains 2 sections:
     - [Step 4](#Step4): Players use items in gameplay.
 
 ## General flow <br> <a name="GeneralFlow"></a>
-There are four general steps to load Items Battle Bears (Battle Bear Stars) in the NFT wallet into Battle Bears game.
+There are four general steps to load Items Battle Bears (Battle Bear) in the NFT wallet into Battle Bears game.
 - Players (already have NFT wallet) connect Wallet to Battle Bears Account.
 - After connected Game get item list in players wallet.
 - Game load Battle Bears items in Players NFT wallet in UI Battle Bears Inventory.
