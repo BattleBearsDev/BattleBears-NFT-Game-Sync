@@ -44,7 +44,7 @@ After tapping the `Connect NFT wallet` button, Game going to open a web page cal
 <img src="img/Connect-gate-(web-page).png" alt="img/Connect-gate-(web-page).png" width=30%/>
 
 
-#### 1.3/ Player tab  `Connect to WalletConnect`  button <br>
+#### 1.3/ Player tab  `Connect to your Algorand Wallet`  button <br>
 
 <img src="img/Connect-gate-(web-page)-tab-connect.png" alt="img/Connect-gate-(web-page)-tab-connect.png" width=30%/>
 
