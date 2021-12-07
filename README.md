@@ -1,5 +1,5 @@
 ---
-title: Connect NFT Wallet
+TITLE: Connect NFT Wallet
 ---
 ## Overview
 This document contains 2 sections:
