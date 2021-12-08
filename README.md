@@ -54,27 +54,25 @@ Then tab `Connect NFT wallet` button at the bottom right.
 #### 1.2/ Game open WalletConnect (web page) <br>
 After tapping the `Connect NFT wallet` button, Game going to open a web page called WalletConnect which helps players connect to Algorand NFT Wallet.
 
-<img src="img/Connect-gate-(web-page).png" alt="img/Connect-gate-(web-page).png" width=30%/>
-
+<img src="https://i.imgur.com/XH8cgNK.png" alt="img/Connect-gate-(web-page).png" width=50%/>
 
 #### 1.3/ Player tab  `Connect to your Algorand Wallet`  button <br>
 
-<img src="img/Connect-gate-(web-page)-tab-connect.png" alt="img/Connect-gate-(web-page)-tab-connect.png" width=30%/>
 
 #### 1.4/ Player choose mobile method and tab  `Connect`  button
 In mobile method, player tab Connect. This action will open Algorand Wallet app.
 
-<img src="img/Choose-mobile-tab-connect2.png" alt="img/Choose-mobile-tab-connect2.png" width=30%/>
+<img src="https://i.imgur.com/fQJnlwh.png" alt="img/Choose-mobile-tab-connect2.png" width=50%/>
 
 #### 1.5/ Player tab  `Connect`  button in the Algorand Wallet app
 In Algorand Wallet app, players tab  `Connect` to allow connecting wallet to Battle Bears GameID.
 
-<img src="img/Player-tab-comfirm-connect-in-Algorand-Wallet-app.png" alt="img/Player-tab-comfirm-connect-in-Algorand-Wallet-app.png" width=30%/>
+<img src="https://i.imgur.com/mBturxC.png" alt="img/Player-tab-comfirm-connect-in-Algorand-Wallet-app.png" width=30%/>
 
 #### 1.6/ Alogrand Wallet app  back to connnect gate (web page) automatically <br>
 After confirmed, Algorand Wallet app reopen WalletConnect. The web page automatically back to Game after couple of seconds. 
 
-<img src="img/connnect-gate-after-connect.png" alt="img/connnect-gate-after-connect.png" width=30%/>
+<img src="https://i.imgur.com/gCInAoj.png" alt="img/connnect-gate-after-connect.png" width=50%/>
 
 #### 1.7/ Game display a connect successful pop-up
 
@@ -108,10 +106,15 @@ Tap `PLAY` and join a real-time multiplayer battle with 5 other players and show
 <img src="https://i.imgur.com/Vk39UzE.png" alt="Battle Bears Victory" width=50%/>
 
 ## ROADMAP
-The Battle Bears franchise has a wealth of nostalgic original art spanning 12 years that can be made into ASAs and NFTs for millions of fans. With NFT Game Sync we can make each Battle Bears NFT available in multiple Battle Bears games that span different genres from top-down brawlers, to tower defense to hard-core FPS. 
+The Battle Bears franchise has a wealth of nostalgic original art spanning 12 years that can be made into ASAs and NFTs for millions of fans. With NFT Game Sync we can make each Battle Bears NFT available in multiple Battle Bears games that span different genres from top-down brawlers, to tower defense to hard-core FPS. We look forward to utilizing more Algorand technologies to foster more engagement and competition in our games. 
 
-<img src="https://i.imgur.com/knNeLoG.png" alt="Battle Bears FPS Beta" width=50%/>
+<img src="https://i.imgur.com/knNeLoG.png" alt="Battle Bears FPS Beta" width=50%/> 
 
+<img src="https://i.imgur.com/RQI2Eb0.png" alt="Battle Bears Original Art" width=50%/>
+
+The Battle Bears is a community driven franchise with thousands of contributions by fans of all ages and backgrounds. We are excited to integrate Algorand Smart Contracts for community submitted content and influencer time contributions to allow them to participate in the growth of the game franchise. 
+
+<img src="https://i.imgur.com/41o9ht2.png" alt="Battle Bears Original Art" width=50%/>
 
 ## TECHNOLOGY STACK
 * Algorand
@@ -122,3 +125,9 @@ The Battle Bears franchise has a wealth of nostalgic original art spanning 12 ye
 * MyAlgoWallet
 * AB2.gallery
 
+## ABOUT SKYVU INC.
+SkyVu Inc. is a Delaware corporation headquartered in Omaha, Nebraska with an additional studio in Ho Chi Minh City, Vietnam. SkyVu was co-founded in 2009 by CEO Ben Vu. The Battle Bears franchise is created and owned 100% by SkyVu and has amassed over 40 Million downloads across iOS, Android, and PC. Battle Bears has reached the top game charts around the world and has won several Mobile Game of the Year awards. SkyVu games have been featured by Apple, Google, Amazon and Microsoft.
+
+Battle Bears Facebook https://facebook.com/BattleBears
+
+Battle Bears YouTube https://youtube.com/BattleBears
