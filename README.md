@@ -1,16 +1,18 @@
----
-TITLE: Battle Bears NFT Game Sync
----
-## Goals
+# Battle Bears NFT Game Sync
 Battle Bears NFT Game Sync is a project that aims to provide playable NFTs based on the Algorand blockchain. Leveraging our newest Battle Bears game on iOS and Android. Players can purchase a Battle Bears NFT 3D skins on the popular AB2 Gallery, easily connect their Algorand Wallet in game, unlock their NFT skin in game and use it in real-time multiplayer matches. Then players can sell or transfer their Battle Bears NFT and the NFT Game Sync will update player's inventory in game. 
 
-## Demo Video on iOS
-https://youtu.be/ZOT0hrbhTj8
+[![iOS Demo Video](https://i.imgur.com/7wKM4xx.png)](https://youtu.be/ZOT0hrbhTj8 "iOS Demo Video")
 
-## Battle Bears NFT available on AB2 Gallery
-https://ab2.gallery/asset/453129670
+### iOS Demo Video https://youtu.be/ZOT0hrbhTj8
 
-## Android APK link available upon request
+
+<img src="https://i.imgur.com/UHxlnpf.png" alt="Battle Bears NFTs on AB2 Gallery" width=50%/>
+
+### Battle Bears NFT on AB2 Gallery  https://ab2.gallery/asset/453129670
+
+<img src="https://i.imgur.com/eCzLPfm.png" alt="Battle Bears NFT in Game" width=100%/>
+
+### Android APK link available upon request
 
 ## Overview
 This document contains 2 sections:
@@ -64,7 +66,7 @@ In mobile method, player tab Connect. This action will open Algorand Wallet app.
 
 <img src="img/Choose-mobile-tab-connect2.png" alt="img/Choose-mobile-tab-connect2.png" width=30%/>
 
-#### 1.5/ Player tab  `Connect`  button in Algorand Wallet app
+#### 1.5/ Player tab  `Connect`  button in the Algorand Wallet app
 In Algorand Wallet app, players tab  `Connect` to allow connecting wallet to Battle Bears GameID.
 
 <img src="img/Player-tab-comfirm-connect-in-Algorand-Wallet-app.png" alt="img/Player-tab-comfirm-connect-in-Algorand-Wallet-app.png" width=30%/>
@@ -86,20 +88,37 @@ If players want to disconnect Wallet from Battle Bears Account, they can tab but
 
 <img src="img/Setting-screen-disconnect.png" alt="img/Setting-screen-disconnect.png" width=50%/>
 
-### Step 2: After connected, Game get item list in players wallet <a name="Step2"></a>
+### Step 2: After connected, game gets item list in players wallet <a name="Step2"></a>
 
 After connected to the NFT wallet, Game update items in NFT Wallet into Battle Bears game. When new items added in players's inventory, red notification appears at the CLASSES icon.
 
 <img src="img/Red-note-new-items.png" alt="img/Red-note-new-items.png" width=50%/>
 
-### Step 3: Game load Battle Bears items in Player NFT wallet in UI Battle Bears Inventory <a name="Step3"></a>
+### Step 3: Game loads Battle Bears items in Player NFT wallet in Game Inventory <a name="Step3"></a>
 
-In game inventory, NFT items have specific icon profile picture
+In game inventory, NFT items have specific icon profile picture with the Algorand icon.
 
-<img src="img/Choose-outfit-screen.png" alt="img/Choose-outfit-screen.png" width=50%/>
+<img src="https://i.imgur.com/qvdWAG7.png" alt="Algorand NFT in Game Inventory" width=50%/>
 
-### Step 4: Player use items in gameplay <a name="Step4"></a>
-In UI choosing outfits, player tab button `Choose` to use outfit in the next game.
+### Step 4: Play with your NFT in real-time multiplayer battle <a name="Step4"></a>
+Tap `PLAY` and join a real-time multiplayer battle with 5 other players and show off your new NFT.
 
-<img src="img/Choose-outfit-screen2.png" alt="img/Choose-outfit-screen2.png" width=50%/>
+<img src="https://i.imgur.com/tUFA8nI.png" alt="Battle Bears Match Gameplay" width=50%/>
+
+<img src="https://i.imgur.com/Vk39UzE.png" alt="Battle Bears Victory" width=50%/>
+
+## ROADMAP
+The Battle Bears franchise has a wealth of nostalgic original art spanning 12 years that can be made into ASAs and NFTs for millions of fans. With NFT Game Sync we can make each Battle Bears NFT available in multiple Battle Bears games that span different genres from top-down brawlers, to tower defense to hard-core FPS. 
+
+<img src="https://i.imgur.com/knNeLoG.png" alt="Battle Bears FPS Beta" width=50%/>
+
+
+## TECHNOLOGY STACK
+* Algorand
+* Unity
+* SkyFab (AWS) 
+* Photon Bolt 
+* Algorand Wallet
+* MyAlgoWallet
+* AB2.gallery
 
