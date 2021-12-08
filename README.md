@@ -112,7 +112,7 @@ The Battle Bears franchise has a wealth of nostalgic original art spanning 12 ye
 
 <img src="https://i.imgur.com/RQI2Eb0.png" alt="Battle Bears Original Art" width=50%/>
 
-The Battle Bears is a community driven franchise with thousands of contributions by fans of all ages and backgrounds. We are excited to integrate Algorand Smart Contracts for community submitted content and influencer time contributions to allow them to participate in the growth of the game franchise. 
+Battle Bears is a community driven franchise with thousands of contributions by fans of all ages and backgrounds. We are excited to integrate Algorand Smart Contracts for community submitted content and influencer time contributions to allow them to participate in the growth of the game franchise. With Algorand, we can accelerate the Create-to-Earn and Play-to-Earn movements with our games.  
 
 <img src="https://i.imgur.com/41o9ht2.png" alt="Battle Bears Original Art" width=50%/>
 
@@ -128,6 +128,8 @@ The Battle Bears is a community driven franchise with thousands of contributions
 ## ABOUT SKYVU INC.
 SkyVu Inc. is a Delaware corporation headquartered in Omaha, Nebraska with an additional studio in Ho Chi Minh City, Vietnam. SkyVu was co-founded in 2009 by CEO Ben Vu. The Battle Bears franchise is created and owned 100% by SkyVu and has amassed over 40 Million downloads across iOS, Android, and PC. Battle Bears has reached the top game charts around the world and has won several Mobile Game of the Year awards. SkyVu games have been featured by Apple, Google, Amazon and Microsoft.
 
-Battle Bears Facebook https://facebook.com/BattleBears
+Battle Bears Facebook (96k) https://facebook.com/BattleBears
 
-Battle Bears YouTube https://youtube.com/BattleBears
+Battle Bears YouTube (42k) https://youtube.com/BattleBears
+
+Battle Bears Twitter https://twitter.com/BattleBears
