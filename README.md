@@ -1,6 +1,17 @@
 ---
-TITLE: Connect NFT Wallet
+TITLE: Battle Bears NFT Game Sync
 ---
+## Goals
+Battle Bears NFT Game Sync is a project that aims to provide playable NFTs based on the Algorand blockchain. Leveraging our newest Battle Bears game on iOS and Android. Players can purchase a Battle Bears NFT 3D skins on the popular AB2 Gallery, easily connect their Algorand Wallet in game, unlock their NFT skin in game and use it in real-time multiplayer matches. Then players can sell or transfer their Battle Bears NFT and the NFT Game Sync will update player's inventory in game. 
+
+## Demo Video on iOS
+https://youtu.be/ZOT0hrbhTj8
+
+## Battle Bears NFT available on AB2 Gallery
+https://ab2.gallery/asset/453129670
+
+## Android APK link available upon request
+
 ## Overview
 This document contains 2 sections:
 - [General flow](#GeneralFlow): Overview player's flow
