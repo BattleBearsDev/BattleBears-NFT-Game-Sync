@@ -1,14 +1,8 @@
 # Battle Bears NFT Game Sync
-Battle Bears NFT Game Sync is a project that aims to provide easily playable 3D NFTs in real-time multiplayer games. For speed and real-world stress testing, we're using our latest Battle Bears mobile game with the Algorand Mainnet and the Algorand Wallet app. iOS and Android Players can purchase a Battle Bears 3D NFT on the popular AB2 Gallery, connect to their Algorand Wallet from our game, automatically unlock their NFT and use it in real-time multiplayer matches. Furthermore, players can sell or transfer their Battle Bears NFT and our NFT Game Sync will update the player's inventory in game. We are happy to report we have completed all these features and are now working on new Algorand ASA/NFT/Smart Contract implementations in our games.   
-
-[![iOS Demo Video](https://i.imgur.com/7wKM4xx.png)](https://youtu.be/ZOT0hrbhTj8 "iOS Demo Video")
-
-### iOS Demo Video https://youtu.be/ZOT0hrbhTj8
+Battle Bears NFT Game Sync is a project that aims to provide easily playable 3D NFTs in real-time multiplayer games. For speed and real-world stress testing, we're using our latest Battle Bears mobile game with the Algorand Mainnet and the Algorand Wallet app. iOS and Android Players can purchase a Battle Bears 3D NFT on the popular AB2 Gallery, connect to their Algorand Wallet from our game, automatically unlock their NFT and use it in real-time multiplayer matches. Furthermore, players can sell or transfer their Battle Bears NFT and our NFT Game Sync will update the player's inventory in game.
 
 
 <img src="https://i.imgur.com/UHxlnpf.png" alt="Battle Bears NFTs on AB2 Gallery" width=50%/>
-
-### Battle Bears NFT on AB2 Gallery  https://ab2.gallery/asset/453129670
 
 
 <img src="https://i.imgur.com/eCzLPfm.png" alt="Battle Bears NFT in Game" width=100%/>
@@ -104,8 +98,6 @@ In game inventory, NFT items have specific icon profile picture with the Algoran
 ### Step 4: Play with your NFT in real-time multiplayer battle <a name="Step4"></a>
 Tap `PLAY` and join a real-time multiplayer battle with 5 other players and show off your new NFT.
 
-<img src="https://i.imgur.com/tUFA8nI.png" alt="Battle Bears Match Gameplay" width=75%/>
-
 <img src="https://i.imgur.com/Vk39UzE.png" alt="Battle Bears Victory" width=75%/>
 
 ## ROADMAP
@@ -128,8 +120,8 @@ Battle Bears is a community driven franchise with thousands of contributions by 
 * MyAlgoWallet
 * AB2.gallery
 
-## ABOUT SKYVU INC.
-SkyVu Inc. is a Delaware corporation headquartered in Omaha, Nebraska with an additional studio in Ho Chi Minh City, Vietnam. SkyVu was co-founded in 2009 by CEO Ben Vu. The Battle Bears franchise is created and owned 100% by SkyVu and has amassed over 40 Million downloads across iOS, Android, and PC. Battle Bears has reached the top game charts around the world and has won several Mobile Game of the Year awards. SkyVu games have been featured by Apple, Google, Amazon and Microsoft.
+## ABOUT BATTLE BEARS
+The Battle Bears franchise is created and owned 100% by SkyVu and has amassed over 40 Million downloads across iOS, Android, and PC. Battle Bears has reached the top game charts around the world and has won several Mobile Game of the Year awards. SkyVu games have been featured by Apple, Google, Amazon and Microsoft.
 
 Battle Bears Facebook (96k) https://facebook.com/BattleBears
 
