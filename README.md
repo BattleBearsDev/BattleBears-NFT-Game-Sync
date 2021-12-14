@@ -107,9 +107,6 @@ The Battle Bears franchise has a wealth of nostalgic original art spanning 12 ye
 
 <img src="https://i.imgur.com/RQI2Eb0.png" alt="Battle Bears Original Art" width=75%/>
 
-Battle Bears is a community driven franchise with thousands of contributions by fans of all ages and backgrounds. We are excited to integrate Algorand Smart Contracts for community submitted content and influencer time contributions to allow them to participate in the growth of the game franchise. With Algorand, we can accelerate the Create-to-Earn and Play-to-Earn movements with our games.  
-
-<img src="https://i.imgur.com/41o9ht2.png" alt="Battle Bears Original Art" width=75%/>
 
 ## TECHNOLOGY STACK
 * Algorand
